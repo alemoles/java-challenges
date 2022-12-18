@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_56/BinarySearchChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_34/ThreadLocalChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearchChallenge">
+  <component name="RunManager" selected="Application.ThreadLocalChallenge">
     <configuration name="BinarySearchChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_56.BinarySearchChallenge" />
       <module name="java-challenges" />
@@ -85,8 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadLocalChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_34.ThreadLocalChallenge" />
+      <module name="java-challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devstromo.JC_34.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalChallenge" />
         <item itemvalue="Application.BinarySearchChallenge" />
         <item itemvalue="Application.DateChallenge" />
         <item itemvalue="Application.JediDarkSideFight" />
@@ -103,7 +117,8 @@
       <updated>1671152903987</updated>
       <workItem from="1671152906264" duration="2341000" />
       <workItem from="1671231940083" duration="1423000" />
-      <workItem from="1671306246233" duration="328000" />
+      <workItem from="1671306246233" duration="1712000" />
+      <workItem from="1671368281188" duration="1837000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -133,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671235234297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JC #56 - Binary Search Java Challenge">
+      <created>1671306753619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671306753619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +167,7 @@
     <MESSAGE value="update gitignore" />
     <MESSAGE value="JC #68 - Functions nesting, Lambda and Method Reference" />
     <MESSAGE value="JC #21 - Spider Man Date Period Java Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC #21 - Spider Man Date Period Java Challenge" />
+    <MESSAGE value="JC #56 - Binary Search Java Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC #56 - Binary Search Java Challenge" />
   </component>
 </project>
