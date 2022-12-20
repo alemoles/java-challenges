@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="" />
+    <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_27/DESCRIPTION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_27/EqualsHashCodeChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_27",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.JokerCrazinessChallenge">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_27" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EqualsHashCodeChallenge">
     <configuration name="BinarySearchChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_56.BinarySearchChallenge" />
       <module name="java-challenges" />
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JediDarkSideFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_68.JediDarkSideFight" />
+    <configuration name="EqualsHashCodeChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_27.EqualsHashCodeChallenge" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_68.*" />
+          <option name="PATTERN" value="com.devstromo.JC_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsHashCodeChallenge" />
         <item itemvalue="Application.JokerCrazinessChallenge" />
         <item itemvalue="Application.ThreadLocalChallenge" />
         <item itemvalue="Application.BinarySearchChallenge" />
         <item itemvalue="Application.DateChallenge" />
-        <item itemvalue="Application.JediDarkSideFight" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +143,8 @@
       <workItem from="1671231940083" duration="1423000" />
       <workItem from="1671306246233" duration="1712000" />
       <workItem from="1671368281188" duration="2491000" />
+      <workItem from="1671495259065" duration="811000" />
+      <workItem from="1671579665083" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -173,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671370136866</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JC Consumer Supplier - Joker Lambda Challenge">
+      <created>1671495536506</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671495536506</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +209,7 @@
     <MESSAGE value="JC #21 - Spider Man Date Period Java Challenge" />
     <MESSAGE value="JC #56 - Binary Search Java Challenge" />
     <MESSAGE value="JC #34 - Thread Local Java Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC #34 - Thread Local Java Challenge" />
+    <MESSAGE value="JC Consumer Supplier - Joker Lambda Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC Consumer Supplier - Joker Lambda Challenge" />
   </component>
 </project>
