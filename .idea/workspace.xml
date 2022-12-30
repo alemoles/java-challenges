@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_1/OptionalChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_2/InterfaceChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +55,13 @@
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalChallenge">
-    <configuration name="EqualsHashCodeChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_27.EqualsHashCodeChallenge" />
+  <component name="RunManager" selected="Application.InterfaceChallenge$Jedi">
+    <configuration name="ExceptionChaosChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Exception.ExceptionChaosChallenge" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_27.*" />
+          <option name="PATTERN" value="com.devstromo.JC_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionChaosChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Exception.ExceptionChaosChallenge" />
+    <configuration name="InterfaceChallenge$Jedi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_2.InterfaceChallenge$Jedi" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_Exception.*" />
+          <option name="PATTERN" value="com.devstromo.JC_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceChallenge$Jedi" />
         <item itemvalue="Application.OptionalChallenge" />
         <item itemvalue="Application.StreamDistinctChallenge" />
         <item itemvalue="Application.MethodReferenceVSLambdaChallenge" />
         <item itemvalue="Application.ExceptionChaosChallenge" />
-        <item itemvalue="Application.EqualsHashCodeChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1671927858768" duration="722000" />
       <workItem from="1672095529833" duration="1457000" />
       <workItem from="1672182715785" duration="1129000" />
-      <workItem from="1672271019417" duration="1203000" />
+      <workItem from="1672271019417" duration="3104000" />
+      <workItem from="1672356551355" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672183470799</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="JC 1 Optional Challenge">
+      <created>1672272498718</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672272498718</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +254,18 @@
     <MESSAGE value="JC Exception Chaos Java Challenge" />
     <MESSAGE value="JC 38 Method Reference VS Lambda Challenge" />
     <MESSAGE value="JC 19 Stream Distinct Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC 19 Stream Distinct Challenge" />
+    <MESSAGE value="JC 1 Optional Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC 1 Optional Challenge" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/devstromo/JC_1/OptionalChallenge.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
