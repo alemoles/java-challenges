@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Type_Erasure_Generics/DESCRIPTION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Type_Erasure_Generics/GenericChallenge3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,28 +35,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Exception&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Type_Erasure_Generics",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Type_Erasure_Generics" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Exception" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionChallenge">
+  <component name="RunManager" selected="Application.GenericChallenge3">
     <configuration name="FunctionChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_FunctionCalculation.FunctionChallenge" />
       <module name="java-challenges" />
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceChallenge$Jedi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_2.InterfaceChallenge$Jedi" />
+    <configuration name="GenericChallenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Type_Erasure_Generics.GenericChallenge3" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_2.*" />
+          <option name="PATTERN" value="com.devstromo.JC_Type_Erasure_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceVSLambdaChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_38.MethodReferenceVSLambdaChallenge" />
+    <configuration name="InterfaceChallenge$Jedi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_2.InterfaceChallenge$Jedi" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_38.*" />
+          <option name="PATTERN" value="com.devstromo.JC_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericChallenge3" />
         <item itemvalue="Application.FunctionChallenge" />
         <item itemvalue="Application.InterfaceChallenge$Jedi" />
         <item itemvalue="Application.OptionalChallenge" />
         <item itemvalue="Application.StreamDistinctChallenge" />
-        <item itemvalue="Application.MethodReferenceVSLambdaChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +153,8 @@
       <workItem from="1672271019417" duration="3104000" />
       <workItem from="1672356551355" duration="1934000" />
       <workItem from="1672443183062" duration="20000" />
+      <workItem from="1672505975887" duration="164000" />
+      <workItem from="1672612139177" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -242,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672358689031</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="JC Function Challenge">
+      <created>1672506124388</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672506124388</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +275,8 @@
     <MESSAGE value="JC 19 Stream Distinct Challenge" />
     <MESSAGE value="JC 1 Optional Challenge" />
     <MESSAGE value="JC 2 Interface Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC 2 Interface Challenge" />
+    <MESSAGE value="JC Function Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC Function Challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
