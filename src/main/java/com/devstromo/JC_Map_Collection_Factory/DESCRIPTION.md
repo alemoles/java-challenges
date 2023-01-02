@@ -1,0 +1,4 @@
+When we are using Collection Factory methods with Java, we can't pass duplicate elements to a key of a map. 
+If we pass a key that is duplicate in a Collection that doesn't allow duplicate elements, then the `java.lang.IllegalArgumentException` will be thrown. If there wasn't a duplicate element, there would be another `Exception` once we are trying to put elements into a map that is immutable, we can't change the state of a Collection Factory. 
+Therefore the Exception to be thrown would be `java.lang.UnsupportedOperationException`. 
+In conclusion, keep in mind that Collection Factory methods are immutable and when using a Collection that doesn't allow duplicate methods, an Exception will be thrown. Therefore, the final answer will be:  `java.lang.IllegalArgumentException` will be thrown. 

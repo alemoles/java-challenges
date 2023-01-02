@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Type_Erasure_Generics/DESCRIPTION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Type_Erasure_Generics/GenericChallenge3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Map_Collection_Factory/DESCRIPTION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Map_Collection_Factory/MapJavaChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +43,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Type_Erasure_Generics",
+    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Map_Collection_Factory",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -154,7 +155,8 @@
       <workItem from="1672356551355" duration="1934000" />
       <workItem from="1672443183062" duration="20000" />
       <workItem from="1672505975887" duration="164000" />
-      <workItem from="1672612139177" duration="487000" />
+      <workItem from="1672612139177" duration="560000" />
+      <workItem from="1672699098753" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -254,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672506124388</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="JC Type Erasure Generics">
+      <created>1672612667771</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672612667771</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +285,8 @@
     <MESSAGE value="JC 1 Optional Challenge" />
     <MESSAGE value="JC 2 Interface Challenge" />
     <MESSAGE value="JC Function Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC Function Challenge" />
+    <MESSAGE value="JC Type Erasure Generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC Type Erasure Generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
