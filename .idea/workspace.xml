@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Map_Collection_Factory/DESCRIPTION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_Map_Collection_Factory/MapJavaChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_18/FlowControlChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,30 +34,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Map_Collection_Factory",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_Map_Collection_Factory&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Map_Collection_Factory" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Type_Erasure_Generics" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Exception" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericChallenge3">
+  <component name="RunManager" selected="Application.FlowControlChallenge">
+    <configuration name="FlowControlChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_18.FlowControlChallenge" />
+      <module name="java-challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devstromo.JC_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_FunctionCalculation.FunctionChallenge" />
       <module name="java-challenges" />
@@ -98,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_1.OptionalChallenge" />
+    <configuration name="MapJavaChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Map_Collection_Factory.MapJavaChallenge" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamDistinctChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_19.StreamDistinctChallenge" />
-      <module name="java-challenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_19.*" />
+          <option name="PATTERN" value="com.devstromo.JC_Map_Collection_Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlowControlChallenge" />
+        <item itemvalue="Application.MapJavaChallenge" />
         <item itemvalue="Application.GenericChallenge3" />
         <item itemvalue="Application.FunctionChallenge" />
         <item itemvalue="Application.InterfaceChallenge$Jedi" />
-        <item itemvalue="Application.OptionalChallenge" />
-        <item itemvalue="Application.StreamDistinctChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,8 @@
       <workItem from="1672443183062" duration="20000" />
       <workItem from="1672505975887" duration="164000" />
       <workItem from="1672612139177" duration="560000" />
-      <workItem from="1672699098753" duration="707000" />
+      <workItem from="1672699098753" duration="807000" />
+      <workItem from="1672786012464" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -263,13 +264,22 @@
       <option name="project" value="LOCAL" />
       <updated>1672612667771</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="JC Map Collection Factory Java Challenge">
+      <created>1672699880752</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672699880752</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="update gitignore" />
@@ -286,7 +296,8 @@
     <MESSAGE value="JC 2 Interface Challenge" />
     <MESSAGE value="JC Function Challenge" />
     <MESSAGE value="JC Type Erasure Generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC Type Erasure Generics" />
+    <MESSAGE value="JC Map Collection Factory Java Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC Map Collection Factory Java Challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
