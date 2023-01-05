@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6916fc5a-fab6-4cb9-bb26-10d0a02b494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_22/AdvancedPolymorphicOverloadingChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_13/DESCRIPTION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devstromo/JC_13/ListRemoveIfChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,32 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_18&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WORK/PROYECTOS/JAVA/java-challenges/src/main/java/com/devstromo/JC_13",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_13" />
+      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_22" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_18" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Map_Collection_Factory" />
       <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Type_Erasure_Generics" />
-      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_Exception" />
-      <recent name="D:\WORK\PROYECTOS\JAVA\java-challenges\src\main\java\com\devstromo\JC_27" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdvancedPolymorphicOverloadingChallenge">
+  <component name="RunManager" selected="Application.ListRemoveIfChallenge">
     <configuration name="AdvancedPolymorphicOverloadingChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_22.AdvancedPolymorphicOverloadingChallenge" />
       <module name="java-challenges" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_FunctionCalculation.FunctionChallenge" />
+    <configuration name="GenericChallenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Type_Erasure_Generics.GenericChallenge3" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_FunctionCalculation.*" />
+          <option name="PATTERN" value="com.devstromo.JC_Type_Erasure_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericChallenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_Type_Erasure_Generics.GenericChallenge3" />
+    <configuration name="ListRemoveIfChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devstromo.JC_13.ListRemoveIfChallenge" />
       <module name="java-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devstromo.JC_Type_Erasure_Generics.*" />
+          <option name="PATTERN" value="com.devstromo.JC_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListRemoveIfChallenge" />
         <item itemvalue="Application.AdvancedPolymorphicOverloadingChallenge" />
         <item itemvalue="Application.FlowControlChallenge" />
         <item itemvalue="Application.MapJavaChallenge" />
         <item itemvalue="Application.GenericChallenge3" />
-        <item itemvalue="Application.FunctionChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,8 @@
       <workItem from="1672612139177" duration="560000" />
       <workItem from="1672699098753" duration="807000" />
       <workItem from="1672786012464" duration="671000" />
-      <workItem from="1672870112860" duration="319000" />
+      <workItem from="1672870112860" duration="616000" />
+      <workItem from="1672960944851" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1671153098535</created>
@@ -280,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672786518915</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="JC Advanced Polymorphic Overloading Java Challenge">
+      <created>1672870718323</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672870718323</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +316,8 @@
     <MESSAGE value="JC Type Erasure Generics" />
     <MESSAGE value="JC Map Collection Factory Java Challenge" />
     <MESSAGE value="JC Flow Control Java Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="JC Flow Control Java Challenge" />
+    <MESSAGE value="JC Advanced Polymorphic Overloading Java Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="JC Advanced Polymorphic Overloading Java Challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
